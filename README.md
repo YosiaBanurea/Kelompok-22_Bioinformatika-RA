@@ -10,8 +10,6 @@
 
 ## Topik Tugas Besar:
 Fungsi: Kompleks protein inflamasi yang mengatur respon inflamasi melalui
-aktivasi IL-1β.
-● Penyakit: Penyakit autoimun, Alzheimer, dan penyakit inflamasi kronis.
-● Mengapa menarik: Inflammasome NLRP3 berperan penting dalam inflamasi
-kronis. Virtual screening digunakan untuk menemukan inhibitor inflammasome
-NLRP3 yang potensial sebagai terapi untuk gangguan inflamasi.
+aktivasi IL-1β.\
+● Penyakit: Penyakit autoimun, Alzheimer, dan penyakit inflamasi kronis.\
+● Mengapa menarik: Inflammasome NLRP3 berperan penting dalam inflamasi kronis. Virtual screening digunakan untuk menemukan inhibitor inflammasome NLRP3 yang potensial sebagai terapi untuk gangguan inflamasi.
